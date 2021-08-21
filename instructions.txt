@@ -1,0 +1,29 @@
+
+The basic premise of the Blackjack is that you want to have a hand value that is closer to 21 than that of the Dealer, without going over 21. Your hand competes only against the hand of the Dealer.
+
+In Blackjack, the cards are valued as follows:
+  An Ace can count as either 1 or 11.
+  The cards from 2 through 9 are valued at their face value.
+  The 10, Jack, Queen, and King are all valued at 10.
+
+An Ace can be counted as either 1 or 11. You need not specify which value the Ace has. It is assumed to have the value that makes the best hand, and that may change as more cards are added to the hand.
+
+The suits of the cards do not have any meaning in the game. The value of a hand is simply the sum of the point counts of each card in the hand.
+
+Once all the bets are placed, the Dealer will deal two cards to the Player and himself. One of the Dealer's cards will be facing down.
+
+Generally, the Dealer in Blackjack must hit if he has a total of 16 or less, and stand if he has 17 or more.
+
+If you draw a card that makes your hand total go over 21, your hand is a bust. That is an automatic loss. The Dealer will immediately collect your bet, and discard your hand.
+
+Assuming you did not bust, the Dealer will play out his hand at the end. If he busts by going over 21, you win the bet.
+
+If neither you nor the Dealer bust, the Dealer will compare his final total to yours.
+
+  If his total is higher than yours, you lose the bet.
+  
+  If your total is higher than his, you win the bet.
+
+So, what happens if you and the dealer tie, with the same exact total? Nothing at all. A tie is called a "push", and you do not win or lose your bet. 
+
+Note: You can place a bet of maximum 10k chips in this game!
